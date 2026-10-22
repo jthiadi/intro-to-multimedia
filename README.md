@@ -1,6 +1,6 @@
-# CS3570 Introduction to Multimedia Technology
+# Topics on Introduction to Multimedia Technology
 
-NTHU CS3570 (Spring 2026) homework: image processing, audio filtering, block-matching motion estimation, vector graphics / 3D mesh rendering, and neural JPEG+noise restoration.
+Topics: image processing, audio filtering, block-matching motion estimation, vector graphics / 3D mesh rendering, and neural JPEG+noise restoration.
 
 Each assignment is a Jupyter notebook plus the input files it needs. Run notebooks from **that assignment’s folder** so relative paths resolve.
 
