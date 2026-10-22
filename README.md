@@ -1,4 +1,4 @@
-# Topics on Introduction to Multimedia Technology
+# Topics on Introduction to Multimedia
 
 Topics: image processing, audio filtering, block-matching motion estimation, vector graphics / 3D mesh rendering, and neural JPEG+noise restoration.
 
