@@ -1,0 +1,17 @@
+# Restoration extras on top of the repo-root requirements.txt.
+#
+# 1. Create / activate the same venv used for assignments 01–03.
+# 2. Install a PyTorch build that matches your machine FROM
+#    https://pytorch.org/get-started/locally/
+#    Example (Windows / Linux, CUDA 12.4):
+#      pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+#    CPU-only:
+#      pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+# 3. Then:
+#      pip install -r 04-neural-image-restoration/requirements.txt
+
+lightning>=2.4
+anyschedule
+sensecraft
+huggingface_hub
+ipywidgets

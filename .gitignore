@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Runtime outputs (re-created by the notebooks)
+**/output/
+
+# DCT compression dumps
+**/Barbara_quality-*.jpg
+
+# Restoration training artifacts and the ~5 GB dataset
+04-neural-image-restoration/data/
+04-neural-image-restoration/lightning_logs/
+*.ckpt
+*.pt
+*.pth
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
